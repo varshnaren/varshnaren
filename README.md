@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Varshini</h1>
+![image](https://github.com/varshnaren/varshnaren/assets/169281080/7609bf37-0aca-492a-a258-9fb1835857cf)<h1 align="center">Hi 👋, I'm Varshini</h1>
 <h3 align="center">A Passionate Data Scientist</h3>
 
 - 🌱 I’m currently learning **Data science from ineuron**
 
 - 📫 How to reach me **narendravarsh@gmail.com**
-
-<p align="left">
+<img align="right" alt="coding" width="400" src="https://images.search.yahoo.com/search/images;_ylt=AwrO_146yTxm8hgAW4qJzbkF;_ylu=c2xrA3RleHQEaXQDQWxzb1RyeV9OBHNlYwNyZWwEcG9zAzU-?p=Cartoon+Coding+Background&fr2=p%3As%2Cv%3Ai%2Cm%3Ars-top%2Cct%3Abing%2Crgn%3Atop%2Cpos%3A5&fr=mcafee#id=19&iurl=https%3A%2F%2Fwww.alamy.com%2Faggregator-api%2Fdownload%3Furl%3Dhttps%3A%2F%2Fc8.alamy.com%2Fcomp%2FJ1805G%2Fa-vector-illustration-of-female-programmer-coding-on-a-computer-J1805G.jpg&action=click>
+<p align="left"> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
