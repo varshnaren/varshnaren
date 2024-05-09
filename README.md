@@ -2,7 +2,6 @@
 <h3 align="center">A Passionate Data Scientist</h3>
 
 - 🌱 I’m currently learning **Data science from ineuron**
-- 🌱 Skills **Data science from ineuron**
 - Excellent presentation, verbal, written, interpersonal, and listening skills.
 - Entrepreneurial spirit with a focus on innovation and achieving results.
 - Effective communication and fostering of trusting relationships.
