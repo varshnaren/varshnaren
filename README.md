@@ -2,7 +2,13 @@
 <h3 align="center">A Passionate Data Scientist</h3>
 
 - 🌱 I’m currently learning **Data science from ineuron**
-
+- 🌱 Skills **Data science from ineuron**
+- Excellent presentation, verbal, written, interpersonal, and listening skills.
+- Entrepreneurial spirit with a focus on innovation and achieving results.
+- Effective communication and fostering of trusting relationships.
+- Integration of fun and joy into work.
+- Strong communicator with a proven track record of collaborating with cross-functional teams to drive business outcomes.
+  
 - 📫 How to reach me **narendravarsh@gmail.com**
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"><p align="left"> 
 </p>
